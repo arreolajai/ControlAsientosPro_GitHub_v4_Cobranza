@@ -1,0 +1,3 @@
+Control de Asientos Pro Cobranza
+Version: 4.0.0
+Cache: control-asientos-pro-v4-cobranza
